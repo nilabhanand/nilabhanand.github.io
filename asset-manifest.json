@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7746ef0e.chunk.css",
+    "main.js": "/static/js/main.8e4b98fc.chunk.js",
+    "main.js.map": "/static/js/main.8e4b98fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4bb374ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4bb374ee.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5a11283b.chunk.js": "/static/js/2.5a11283b.chunk.js",
+    "static/js/2.5a11283b.chunk.js.map": "/static/js/2.5a11283b.chunk.js.map",
+    "static/js/3.d606cc02.chunk.js": "/static/js/3.d606cc02.chunk.js",
+    "static/js/3.d606cc02.chunk.js.map": "/static/js/3.d606cc02.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.7746ef0e.chunk.css.map": "/static/css/main.7746ef0e.chunk.css.map",
+    "static/js/2.5a11283b.chunk.js.LICENSE.txt": "/static/js/2.5a11283b.chunk.js.LICENSE.txt",
+    "static/media/focusd.3945cdf9.png": "/static/media/focusd.3945cdf9.png",
+    "static/media/gtpic.39f5f7c9.png": "/static/media/gtpic.39f5f7c9.png",
+    "static/media/marketalgo.53113796.jpg": "/static/media/marketalgo.53113796.jpg",
+    "static/media/me.abeb0410.png": "/static/media/me.abeb0410.png",
+    "static/media/tradingplatform.580846ee.png": "/static/media/tradingplatform.580846ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb374ee.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5a11283b.chunk.js",
+    "static/css/main.7746ef0e.chunk.css",
+    "static/js/main.8e4b98fc.chunk.js"
+  ]
+}
