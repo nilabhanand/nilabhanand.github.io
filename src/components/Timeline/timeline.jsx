@@ -33,17 +33,15 @@ function Timeline() {
           <h5 className="vertical-timeline-element-subtitle">
             <span className="company-name">@Bitaccess Inc</span> - Remote
           </h5>
-          <p style={{ color: "#838DAA", fontSize: "13px" }}>
+          <p style={{ color: "#838DAA", fontSize: "15px" }}>
             Worked on frontend and backend of company's core product - Bitcoin
             ATM which generates $1 million in transactional volume daily.
           </p>
-          <br />
-          <p style={{ color: "#838DAA", fontSize: "13px" }}>
+          <p style={{ color: "#838DAA", fontSize: "15px" }}>
             Improved UI/UX design of the Bitcoin ATM kiosk software resulting in
             the increase of average transaction size by $180/transaction.
           </p>
-          <br />
-          <p style={{ color: "#838DAA", fontSize: "13px" }}>
+          <p style={{ color: "#838DAA", fontSize: "15px" }}>
             Improved back-end inefficiencies by transitioning from REST to
             GraphQL APIs.
           </p>
@@ -67,18 +65,16 @@ function Timeline() {
           <h5 className="vertical-timeline-element-subtitle">
             <span className="company-name">@Elia Payments</span> - Remote
           </h5>
-          <p style={{ color: "#838DAA", fontSize: "13px" }}>
+          <p style={{ color: "#838DAA", fontSize: "15px" }}>
             Led a team of 3 intern software engineers, managing schedules &
             meetings, leading sprint plannings, and conducting performance
             reviews.
           </p>
-          <br />
-          <p style={{ color: "#838DAA", fontSize: "13px" }}>
+          <p style={{ color: "#838DAA", fontSize: "15px" }}>
             Conceptualized, road-mapped, and developed subscription management
             solution (recurring payments).
           </p>
-          <br />
-          <p style={{ color: "#838DAA", fontSize: "13px" }}>
+          <p style={{ color: "#838DAA", fontSize: "15px" }}>
             Enhanced client integration experience by creating a customizable
             automated low-code payment integration - reducing integration time
             down to ~20 minutes.
@@ -102,12 +98,11 @@ function Timeline() {
           <h5 className="vertical-timeline-element-subtitle">
             <span className="company-name">@Axsource</span> - Toronto
           </h5>
-          <p style={{ color: "#838DAA", fontSize: "13px" }}>
+          <p style={{ color: "#838DAA", fontSize: "15px" }}>
             Responsible for API end-point design & ERP software integration with
             client enterprises.
           </p>
-          <br />
-          <p style={{ color: "#838DAA", fontSize: "13px" }}>
+          <p style={{ color: "#838DAA", fontSize: "15px" }}>
             Increased product reliability by performing UAT over 15 difference
             user scenarios, resulting in bug fixes and holistic understanding of
             user issues.

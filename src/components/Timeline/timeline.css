@@ -6,8 +6,9 @@
   box-shadow: 0 0.07em 0.9em #112240;
 }
 .vertical-timeline-element-content p {
-  line-height: 1.6;
-  font-size: 14px;
+  line-height: 1.3;
+  letter-spacing: normal;
+  font-size: 1em;
   text-align: left;
 }
 .vertical-timeline-element-content .vertical-timeline-element-date {
