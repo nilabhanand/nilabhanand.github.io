@@ -1,0 +1,27 @@
+.vertical-timeline-element-content {
+  background-color: #112240;
+  color: white;
+  letter-spacing: 2px;
+  font-size: 1.1rem;
+  box-shadow: 0 0.07em 0.9em #112240;
+}
+.vertical-timeline-element-content p {
+  line-height: 1.6;
+  font-size: 14px;
+  text-align: left;
+}
+.vertical-timeline-element-content .vertical-timeline-element-date {
+    padding: 0.8em 2em;
+    opacity: .7;
+    font-size: 1em;
+}
+
+.company-name {
+    color: #64FFDA;
+}
+
+@media (max-width: 520px) {
+  .vertical-timeline {
+    width: 85%;
+  }
+}
